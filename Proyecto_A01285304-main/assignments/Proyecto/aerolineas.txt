@@ -1,0 +1,7 @@
+AMX Nacional Aeromexico
+VOI Nacional Volaris
+VB Nacional VivaAerobus
+ACA Internacional AirCanada
+AFR Internacional AirFrance
+UAL Internacional UnitedAirLines
+DAL Internacional DeltaAirLines
